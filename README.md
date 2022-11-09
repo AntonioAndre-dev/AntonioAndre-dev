@@ -1,4 +1,4 @@
-# Olá! Eu sou AntonioAndre-dev
+# Olá! Eu sou AntonioAndre
 
 - 👋Estudante de Análise e desenvolvimento de sistemas
 - ✅Tecnologias : ReactJS, JavaScript, CSS, HTML
