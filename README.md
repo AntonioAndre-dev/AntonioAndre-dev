@@ -14,7 +14,7 @@
   <img align="center" alt="Andre-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
 </div>
   
-  ![Snake animation](https://github.com/AntonioAndre-dev/AntonioAndre-dev/blob/output/github-contribution-grid-snake.svg)
+  ![Snake animation](https://github.com/AntonioAndre-dev/AntonioAndre-dev/github-contribution-grid-snake.svg)
 
 - 👋Estudante de Análise e desenvolvimento de sistemas
 - ✅Tecnologias : ReactJS, JavaScript, CSS, HTML
